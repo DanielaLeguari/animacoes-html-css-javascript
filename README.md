@@ -7,3 +7,11 @@
 
 
 ## Atividade realizada na aula 13 do curso Desenvolvimento Front-end: do zero ao primeiro site promovido pelo +praTi e Happy Code
+
+
+
+![](./imagens/imagem-projeto.png)
+
+
+
+- A aplicação está publicada na Vercel e voce pode se divertir clicando no link do lado superior direito.
