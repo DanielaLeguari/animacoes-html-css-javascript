@@ -14,4 +14,4 @@
 
 
 
-- A aplicação está publicada na Vercel e voce pode se divertir clicando no link do lado superior direito.
+- A aplicação está publicada na Vercel e você pode se divertir clicando no link do lado superior direito.
